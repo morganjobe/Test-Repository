@@ -1,0 +1,66 @@
+{
+  "title": "New L&OD Ideas",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "New Idea #1",
+      "id": 3,
+      "attr": {
+        "position": [
+          191.78885438199984,
+          26,
+          1
+        ],
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "Even better idea",
+          "id": 12
+        },
+        "2": {
+          "title": "A lot better idea",
+          "id": 13
+        }
+      }
+    },
+    "11": {
+      "title": "New Idea #2",
+      "id": 9,
+      "attr": {
+        "position": [
+          142.78885438199984,
+          97,
+          7
+        ],
+        "style": {}
+      }
+    },
+    "-2": {
+      "title": "New Idea #4",
+      "id": 11,
+      "attr": {
+        "position": [
+          191.21114561800016,
+          18,
+          8
+        ],
+        "style": {}
+      }
+    },
+    "-12": {
+      "title": "New Idea #3",
+      "id": 10,
+      "attr": {
+        "style": {},
+        "position": [
+          128.21114561800016,
+          86,
+          9
+        ]
+      }
+    }
+  },
+  "links": []
+}
